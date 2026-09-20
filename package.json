@@ -1,0 +1,44 @@
+{
+  "name": "urlcategorizationdatabase",
+  "version": "1.0.0",
+  "description": "Node.js client for the URL Categorization Database: classify any domain or URL into IAB content taxonomy categories (tier 1 and tier 2) from a database of 120M+ categorized domains, with language detection and buyer personas.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node -e \"const C=require('./');const c=new C('x');if(typeof c.classify!=='function')process.exit(1);console.log('ok')\""
+  },
+  "keywords": [
+    "url categorization",
+    "url database",
+    "url categorization database",
+    "domain categorization",
+    "website classification",
+    "iab taxonomy",
+    "content categories",
+    "domain intelligence",
+    "url classification",
+    "machine learning",
+    "content filtering",
+    "contextual targeting",
+    "buyer personas"
+  ],
+  "author": "Alpha Quantum <info@alpha-quantum.com>",
+  "license": "MIT",
+  "homepage": "https://www.urlcategorizationdatabase.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/explainableaixai/urlcategorizationdatabase"
+  },
+  "bugs": {
+    "url": "https://www.urlcategorizationdatabase.com/contact.php"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
