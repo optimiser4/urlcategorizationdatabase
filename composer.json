@@ -1,0 +1,29 @@
+{
+    "name": "urlcategorizationdatabase/urlcategorizationdatabase",
+    "description": "URL Categorization Database: 120M+ domains classified into IAB content taxonomy categories with tier 1 and tier 2 subcategories",
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+    "homepage": "https://www.urlcategorizationdatabase.com",
+    "support": {
+        "source": "https://github.com/optimiser4/urlcategorizationdatabase",
+        "docs": "https://www.urlcategorizationdatabase.com"
+    },
+    "authors": [
+        {
+            "name": "Alpha Quantum",
+            "email": "info@alpha-quantum.com",
+            "homepage": "https://www.alpha-quantum.com"
+        }
+    ],
+    "keywords": [
+        "url categorization",
+        "url database",
+        "iab taxonomy",
+        "domain categorization",
+        "content categories",
+        "website classification",
+        "machine learning",
+        "contextual targeting"
+    ]
+}
